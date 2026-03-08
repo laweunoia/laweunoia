@@ -5,7 +5,11 @@
     <td>
       <img src="https://i.ibb.co.com/qYxWyqrd/IMG-3703.png" width="300">
     </td>
-    <td valign="top"><p><font size="6">lol</font></p></td>     
+    <td valign="top">
+      <p>
+        <font size="1">lol</font>
+      </p>
+    </td>     
   </tr>
 </table>
 
