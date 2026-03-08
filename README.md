@@ -1,6 +1,6 @@
 <html>
 <h1> about me </h1>
-<table border=0>
+<table style="border:none;>
   <tr>
     <td>
       <img src="https://i.ibb.co.com/qYxWyqrd/IMG-3703.png" width="300">
