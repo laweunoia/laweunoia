@@ -9,7 +9,7 @@
       <h3 align=center> about me </h3>
       <p align=center>
         <b>Lawry   he/him   16yo</b><br><br>
-         personality (idk if not accurate)<br>
+         personality (idgaf if not accurate)<br>
         <b>INTP • sp 8w9 854<br>
 LFEV(bertye) • true neutral<br>
 phlegmatic • temperament</b>
