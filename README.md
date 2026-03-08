@@ -8,11 +8,11 @@
     <td valign="top">
       <h3 align=center> about me </h3>
       <p>
-        <b>Lawry   he/him   16yo</b>
-         personality (not accurate)
-        <b>sp 8w9 854 • enneagram
-LFEV(bertye) • psychosophy 
-true neutral • alignment
+        <b>Lawry   he/him   16yo</b><br>
+         personality (not accurate)<br>
+        <b>sp 8w9 854 • enneagram<br>
+LFEV(bertye) • psychosophy <br>
+true neutral • alignment<br>
 phlegmatic • temperament</b>
       </p>
     </td>     
