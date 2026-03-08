@@ -6,12 +6,12 @@
       <img src="https://i.ibb.co.com/qYxWyqrd/IMG-3703.png" width="300">
     </td>
     <td valign="top">
-      <h3 align=center> about me </h3>
+      <h2 align=center> about me </h2>
       <p align=center>
         6teen • he/him • INTP • phlegmatic<br>
 sp 8w9 854 • LFEV(bertye) • true neutral<br>
         idk if accurate<br><br>
-        <h4 align=center><i>made in</i> <b>Kazakhstan</b></h4>
+        <h3 align=center><i>made in</i> <b>Kazakhstan</b></h3>
         kaz/rus/eng/cze
       </p>
     </td>     
