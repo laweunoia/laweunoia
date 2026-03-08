@@ -6,8 +6,9 @@
       <img src="https://i.ibb.co.com/qYxWyqrd/IMG-3703.png" width="300">
     </td>
     <td valign="top">
+      <h3> lol </h3>
       <p>
-        <h3> lol </h3>
+        Lawry he/him 16yo
       </p>
     </td>     
   </tr>
