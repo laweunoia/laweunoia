@@ -10,9 +10,8 @@
       <p align=center>
         <b>Lawry   he/him   16yo</b><br><br>
          personality (idgaf if not accurate)<br>
-        <b>INTP • sp 8w9 854<br>
-LFEV(bertye) • true neutral<br>
-phlegmatic • temperament</b>
+        <b>he/him • INTP • phlegmatic<br>
+sp 8w9 854 • LFEV(bertye) • true neutral<br></b>
       </p>
     </td>     
   </tr>
