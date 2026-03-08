@@ -11,7 +11,7 @@
         6teen • he/him • INTP • phlegmatic<br>
 sp 8w9 854 • LFEV(bertye) • true neutral<br>
         idk if accurate<br><br>
-        <h3 align=center><i>made in</i> <b>Kazakhstan</b></h3><br>
+        <h3 align=center><i>made in</i> <b>Kazakhstan</b></h3>
         kaz/rus/eng/cze
       </p>
     </td>     
