@@ -7,7 +7,7 @@
     </td>
     <td valign="top">
       <p>
-        <font size="1">lol</font>
+        <h3> lol </h3>
       </p>
     </td>     
   </tr>
