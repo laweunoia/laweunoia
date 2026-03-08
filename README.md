@@ -8,9 +8,9 @@
     <td valign="top">
       <h3 align=center> about me </h3>
       <p align=center>
-        <b>Lawry   16yo</b><br><br>
-        <b>6teen • he/him • INTP • phlegmatic<br>
-sp 8w9 854 • LFEV(bertye) • true neutral<br></b>
+        <b>Lawry</b><br><br>
+        6teen • he/him • INTP • phlegmatic<br>
+sp 8w9 854 • LFEV(bertye) • true neutral<br>
         (idk if accurate)
       </p>
     </td>     
