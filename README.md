@@ -11,5 +11,5 @@ i dont look 4 love gtfo</p>
   <table align=justify><h2 align=center>current fav fandoms</h2>
     <tr><th>.series</th><th>.games</th><td rowspan=3><img src="https://ar-hosting.pages.dev/1773021993445.PNG" align=center width=550></td>
 </tr>
-  <tr><td align=justify>fma+b , monster , demon slayer , f1 jjba , bleach , initial d , skins , twd , hellsing , vagabond , sg , aib </td><td align=justify>bully , yuppie psycho , disco elysium , TWDG , L4D2 , dispatch , cof , SV , DMC , persona , AA , MW </td></tr>
+  <tr><td align=center>fma+b , monster , demon slayer , f1 jjba , bleach , initial d , skins , twd , hellsing , vagabond , sg , aib </td><td align=center>bully , yuppie psycho , disco elysium , TWDG , L4D2 , dispatch , cof , SV , DMC , persona , AA , MW </td></tr>
 </table>
