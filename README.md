@@ -1,8 +1,8 @@
 <img src="https://ar-hosting.pages.dev/1773022674335.PNG" align=justify>
 <p><img src="https://i.ibb.co.com/qYxWyqrd/IMG-3703.png" align="left" width="250"></p>
 <h3 align=center> about me </h3>
-<p align=center>lawry&emsp;he/him&emsp;6teen<br>
- intp&emsp;phleg&emsp;sp8w9<br>
+<p align=center>lawry&emsp;he/him&emsp;intp<br>
+ phleg&emsp;sp8w9&emsp;854<br>
   made in Kazakhstan<br>
     rus . eng . kaz . cze</p>
 <h3 align=center>pls</h3>
