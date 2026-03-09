@@ -5,5 +5,5 @@
   made in Kazakhstan<br>
     rus . eng . kaz . cze</p>
 <h3 align=center>important</h3>
-can be awkward or rude
+may be awkward/rude
 i dont look 4 dating
