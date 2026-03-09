@@ -6,4 +6,4 @@
     rus . eng . kaz . cze</p>
 <h3 align=center>important</h3>
 may be awkward/rude
-i dont look 4 dating
+i dont look 4 love gtfo
