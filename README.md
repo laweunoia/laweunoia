@@ -8,7 +8,7 @@
 may be awkward/rude<br>
 i dont look 4 love gtfo
 <br>
-  <table align=justify>current fav fandoms
+  <table align=justify><h4 align=center>current fav fandoms</h4>
     <tr><th>.series</th><th>.games</th></tr>
   <tr><td>fma+b monster demon slayer f1 jjba bleach initial d skins twd hellsing vagabond sg aib</td>
   <td>bully yuppie psycho disco elysium TWDG L4D2 dispatch cof SV DMC persona AA MW</td></tr></table>
