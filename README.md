@@ -5,8 +5,8 @@
   made in Kazakhstan<br>
     rus . eng . kaz . cze</p>
 <h3 align=center>pls</h3>
-may be awkward/rude<br>
-i dont look 4 love gtfo
+<p align=center>may be awkward/rude<br>
+i dont look 4 love gtfo</p>
 <br>
   <table align=justify><h2 align=center>current fav fandoms</h2>
     <tr><th>.series</th><th>.games</th><td rowspan=3><img src="https://ar-hosting.pages.dev/1773021993445.PNG" align=center width=550></td>
