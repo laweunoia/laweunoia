@@ -4,11 +4,11 @@
  intp&emsp;phleg&emsp;sp8w9<br>
   made in Kazakhstan<br>
     rus . eng . kaz . cze</p>
-<h3 align=center>consider!</h3>
-may be awkward/rude<br>
+<h3 align=center>pls</h3>
+i may be awkward/rude<br>
 i dont look 4 love gtfo
 <br>
-  current fav fandoms
-  fma+b monster demon slayer f1 jjba bleach initial d skins twd hellsing vagabond sg aib 
-   .games
-  bully yuppie psycho disco elysium TWDG L4D2 dispatch cof SV DMC persona AA MW 
+  <table align=justify><th>current fav fandoms</th>
+    <tr><th>.series</th><th>.games</th></tr>
+  <tr><td>fma+b monster demon slayer f1 jjba bleach initial d skins twd hellsing vagabond sg aib</td>
+  <td>bully yuppie psycho disco elysium TWDG L4D2 dispatch cof SV DMC persona AA MW</td></tr></table>
