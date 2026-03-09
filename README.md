@@ -14,3 +14,4 @@ i dont look 4 love gtfo</p>
 </tr>
   <tr><td align=center>fma+b , monster , demon slayer , f1 jjba , bleach , initial d , skins , twd , hellsing , vagabond , sg , aib </td><td align=center>bully , yuppie psycho , disco elysium , TWDG , L4D2 , dispatch , cof , SV , DMC , persona , AA , MW </td></tr>
 </table>
+<img src="https://ar-hosting.pages.dev/1773022668634.PNG" align=justify>
