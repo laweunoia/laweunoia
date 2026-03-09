@@ -5,5 +5,5 @@
   made in Kazakhstan<br>
     rus . eng . kaz . cze</p>
 <h3 align=center>important</h3>
-i can be awkward cuz im shy
-not looking for a relationship pls gtfo
+can be awkward cuz im shy
+i am taken no flirting pls gtfo
