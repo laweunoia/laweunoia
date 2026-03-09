@@ -4,7 +4,7 @@
 <p align=center>lawry&emsp;he/him&emsp;6teen<br>
  intp&emsp;phleg&emsp;sp8w9<br>
   made in Kazakhstan<br>
-    rus . eng . kaz . cze</p>
+    rus . eng . kaz . cze</p> <hr>
 <h3 align=center>pls</h3>
 <p align=center>may be awkward/rude<br>
 i dont look 4 love gtfo</p>
