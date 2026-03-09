@@ -1,1 +1,1 @@
-# <img src="https://i.ibb.co.com/qYxWyqrd/IMG-3703.png" width="30"> My Project
+# <img src="https://i.ibb.co.com/qYxWyqrd/IMG-3703.png" width="390"> My Project
