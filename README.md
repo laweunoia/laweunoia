@@ -1,5 +1,5 @@
 <img src="https://ar-hosting.pages.dev/1773022674335.PNG" align=justify>
-<img src="https://i.ibb.co.com/qYxWyqrd/IMG-3703.png" align="left" width="200">
+<img src="https://i.ibb.co.com/qYxWyqrd/IMG-3703.png" align="left" width="400">
 <h3 align=center> about me </h3>
 <p align=center>lawry&emsp;he/him&emsp;6teen<br>
  intp&emsp;phleg&emsp;sp8w9<br>
