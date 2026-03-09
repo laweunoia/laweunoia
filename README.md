@@ -4,3 +4,6 @@
  intp&emsp;phleg&emsp;sp8w9<br>
   made in Kazakhstan<br>
     rus . eng . kaz . cze</p>
+<h3 align=center>important</h3>
+i can be awkward cuz im shy
+not looking for a relationship pls gtfo
