@@ -5,8 +5,8 @@
  phleg&emsp;sp8w9&emsp;854<br>
   made in Kazakhstan<br>
     rus . eng . kaz . cze</p>
-<p align=center>cosplays: garysmith, joseph&jonathan joestars, <br>
-tyler durden, waterboy, alexander(veil), chad(bleach)</p>
+<p align=center>cosplays: garysmith, joseph&jonathan joestars, shimasousuke <br>
+tylerdurden, waterboy, alexander(veil), chad(bleach)</p>
 <br>
   <table align=justify><h2 align=center>current fav fandoms</h2>
     <tr><th>.series</th><th>.games</th><td rowspan=3><img src="https://ar-hosting.pages.dev/1773021993445.PNG" align=center width=550></td>
